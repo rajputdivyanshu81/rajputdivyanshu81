@@ -1,11 +1,17 @@
 Hi, I’m Divyanshu Rajput! 👋
+
 Welcome to my GitHub profile! I’m currently pursuing my engineering degree from the Institute of Engineering and Technology. As a passionate web developer, I love creating beautiful and functional web applications. Here, you’ll find a collection of my projects, contributions, and learning journey.
 
 About Me
+
 Name: Divyanshu Rajput
+
 Education: Engineering student at the Institute of Engineering and Technology
+
 Profession: Web Developer
+
 Skills
+
 Frontend Development
 
 I specialize in frontend development, utilizing a variety of libraries and frameworks to create responsive and user-friendly interfaces. Here are some of the key technologies I work with:
