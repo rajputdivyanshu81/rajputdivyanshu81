@@ -46,16 +46,7 @@ Git & GitHub: Version control and collaboration.
 
 VS Code: My preferred code editor with a variety of extensions to enhance productivity.
 
-Projects
 
-Here are some of the projects I’ve worked on:
-
-
-Netflix Clone: A clone of the Netflix UI built with React and Tailwind CSS.
-
-Spotify Clone: A clone of the Spotify UI with music playback functionality.
-
-To-Do List App: A simple to-do list application built with React and Material-UI.
 
 Contact Me
 
