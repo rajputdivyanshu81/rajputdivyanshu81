@@ -8,7 +8,7 @@ Name: Divyanshu Rajput
 
 Education: Engineering student at the Institute of Engineering and Technology
 
-Profession: Web Developer
+Profession: Engineer
 
 Skills
 
