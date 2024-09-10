@@ -38,7 +38,7 @@ Axios: For making HTTP requests and handling APIs.
 
 Libraries and Tools
 
-Aetherity: For creating elegant and modern UI components.
+Aceternity: For creating elegant and modern UI components.
 
 Scadcn: A library for building scalable and maintainable UI components.
 
