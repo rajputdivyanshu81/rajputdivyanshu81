@@ -56,4 +56,3 @@ Email: divyanshurajput709@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/divyanshu-rajput8171/
 
-Twitter: https://x.com/DivyanshuRaj81
