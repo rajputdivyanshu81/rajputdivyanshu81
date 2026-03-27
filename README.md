@@ -126,16 +126,6 @@ MJP Rohilkhand University · 2023–2027 · CGPA: 7.91/10
 
 ---
 
-## Leadership
-
-**Captivators Club** — Member & Hackathon Host *(2024–Present)*
-Organized university-level hackathons for 100+ participants, managing problem setting, logistics, and judging.
-
-**Career & Placement Cell** — Volunteer *(2024–Present)*
-Coordinated placement-prep sessions and mock interviews to support peers during internship season.
-
----
-
 <div align="center">
 
 ## GitHub Stats
