@@ -113,18 +113,6 @@ Developed under guidance of Dr. Brajesh Kumar. An end-to-end pipeline for lectur
 **CS Fundamentals**
 `DSA` `OOP` `Operating Systems` `DBMS` `Computer Networks`
 
----
-
-## Education
-
-**B.Tech — Computer Science & Information Technology**
-MJP Rohilkhand University · 2023–2027 · CGPA: 7.91/10
-
-**Certifications**
-- Deep Learning Specialization — Andrew Ng, Coursera
-- Full Stack & DevOps Cohort — 100xDevs
-
----
 
 <div align="center">
 
