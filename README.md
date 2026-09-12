@@ -14,16 +14,6 @@
 
 ---
 
-## About
-
-I only care about clean architecture, meaningful products, and writing code that scales.
-
--  Currently building SaaS products with Next.js, TypeScript, WebRTC and cloud infrastructure
--  Solved **800+ DSA problems** across LeetCode, CodeChef, and Codeforces
--  Selected for **Meta Hacker Cup 2025 Round 2** — Rank 3957 / 13,770+ participants
-
----
-
 ## Projects
 
 ### [QuickDraw](https://quickdraw.vercel.app/) — Real-Time Collaborative Workspace
@@ -75,17 +65,14 @@ Developed under guidance of Dr. Brajesh Kumar. An end-to-end pipeline for lectur
 | CodeChef | 1817+ | ⭐⭐⭐⭐ 4-Star |
 | Codeforces | 1405+ | Specialist |
 | LeetCode | 1560+ | — |
-| HackerRank | — | ⭐⭐⭐⭐ 4-Star |
 
-- **800+** problems solved across platforms
-- **130+** contests participated
-- Best global ranks: **CodeChef #144**, **Codeforces #283**
 
 ---
 
 ## Achievements
 
 -  **Meta Hacker Cup 2025 Round 2** — Rank 3957 / 13,770+ worldwide
+-  **Member of FOSSASIA** — Contributing and managing OOSS
 -  **TCS CodeVita 2025 Round 2** — Global Rank 4709
 -  **Winner** — Hackfista Web Hackathon & CP20 CP Contest (IT Clinic, MJPRU)
 -  **Selected** — McKinsey Forward Program by McKinsey & Company
@@ -112,14 +99,6 @@ Developed under guidance of Dr. Brajesh Kumar. An end-to-end pipeline for lectur
 **CS Fundamentals**
 `DSA` `OOP` `Operating Systems` `DBMS` `Computer Networks`
 
-
-<div align="center">
-
-## GitHub Stats
-
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajputdivyanshu81&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputdivyanshu81&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajputdivyanshu81&theme=tokyonight&hide_border=true)
 
