@@ -82,6 +82,19 @@ Contributions across various open-source projects, organizations, and personal r
 | omegaup/omegaup | 🔵 Open | Skeleton UI for UX Improvement | 2025-12-21 | [View PR](https://github.com/omegaup/omegaup/pull/8679) |
 | omegaup/omegaup | 🔴 Closed | added a section in getTranslatedTag which converts the hardcoded to tag to the required one  | 2025-05-14 | [View PR](https://github.com/omegaup/omegaup/pull/8254) |
 
+###  ruxailab (9 PRs)
+| Repository | Status | Title | Date | Link |
+| :--- | :---: | :--- | :---: | :---: |
+| ruxailab/RUXAILAB | 🔴 Closed | Div fix | 2025-08-29 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/974) |
+| ruxailab/RUXAILAB | 🔴 Closed | if a test has been answered it, it can not be possible to enter again… | 2025-05-20 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/889) |
+| ruxailab/RUXAILAB | 🟢 Merged | fixed the button in the ui shows different text which is not valid | 2025-05-20 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/888) |
+| ruxailab/RUXAILAB | 🔴 Closed | added language support for the choose type of test you are looking to… | 2025-05-20 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/887) |
+| ruxailab/RUXAILAB | 🔴 Closed | Added link thing in the new task form | 2025-05-16 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/868) |
+| ruxailab/RUXAILAB | 🔴 Closed |  Language Selection Not Working on Mobile  issue #626 | 2025-05-14 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/859) |
+| ruxailab/RUXAILAB | 🔴 Closed | errors on task creation #852 | 2025-05-12 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/857) |
+| ruxailab/RUXAILAB | 🟢 Merged | Errors on task creation #852 | 2025-05-12 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/855) |
+| ruxailab/RUXAILAB | 🟢 Merged | Fix: Add padding for proper Hindi character display in language selector #849 | 2025-05-11 | [View PR](https://github.com/ruxailab/RUXAILAB/pull/850) |
+
 ## Projects
 
 ### [QuickDraw](https://quickdraw.vercel.app/) — Real-Time Collaborative Workspace
