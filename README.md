@@ -28,7 +28,7 @@ Direct contributions to the GNOME desktop ecosystem, core libraries, and applica
 | Status | Title | Date | Link |
 | :---: | :--- | :---: | :---: |
 | 🔴 Closed | gtk4: Migrate Gdk.Screen to Gdk.Display | 2026-07-06 | [View MR](https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/414) |
-| 🔵 Open | Drop unsupported gitg:// URI scheme handler | 2026-07-03 | [View MR](https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/413) |
+| 🟢 Merged | Drop unsupported gitg:// URI scheme handler | 2026-07-03 | [View MR](https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/413) |
 | 🔵 Open | gtk4: Migrate removed Gtk.main, Gtk.init, and WindowPosition APIs | 2026-07-03 | [View MR](https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/412) |
 | 🔵 Open | gtk4: Migrate removed Gdk.CursorType and WindowPosition | 2026-07-03 | [View MR](https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/411) |
 | 🟢 Merged | gtk4: Migrate removed enum flags (IconSize, DialogFlags) | 2026-06-30 | [View MR](https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/405) |
