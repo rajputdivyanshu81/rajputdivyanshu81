@@ -1,7 +1,8 @@
 <div align="center">
 
 Divyanshu Rajput <br>
-21,  Exploring low-level systems and kernel engineering.
+21,  Exploring low-level systems and kernel engineering.<br>
+My most of the work is on GitLab, so activity is not that great here.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-rajput8171/)
